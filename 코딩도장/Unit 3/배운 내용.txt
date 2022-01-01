@@ -1,0 +1,6 @@
+1. IDLE에서 직접 print('Hello, world!') 입력하기
+2. File > New File 에서 소스코드를 만들기
+  - hello.py
+3. 명령 프롬프트(cmd)에서 실행
+  1) >python  >print('Hello, world!') 입력
+  2) >cd C:\project >python hello.py 입력
